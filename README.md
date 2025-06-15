@@ -1,7 +1,7 @@
  📧 Email Spam Detection
 
 This project demonstrates how to detect spam emails using Natural Language Processing (NLP) and various Machine Learning classifiers. It includes data cleaning, visualization, model training, and performance evaluation.
-
+---
 
  📂 **Project Structure**
 
@@ -19,8 +19,7 @@ This project demonstrates how to detect spam emails using Natural Language Proce
 * **scikit-learn:** For feature extraction (TF-IDF) and classification models
 
 ---
-
-### 🧾 **Workflow**
+ 🧾 **Workflow**
 
 1. **Install Dependencies:** Install required packages like `nltk` and `wordcloud`.
 2. **Load Dataset:** Load `spam.csv` using pandas.
@@ -42,11 +41,13 @@ This project demonstrates how to detect spam emails using Natural Language Proce
    * Random Forest
    * Logistic Regression
 8. **Evaluation:** Compare model performance using accuracy, classification report, and confusion matrix.
-9. Result: SVM classifier performs the best for this dataset.
-10. Output: Filtered spam messages and prediction results.
+9. **Result:** SVM classifier performs the best for this dataset.
+10. **Output:** Filtered spam messages and prediction results.
+
+---
 
    
-✅ Result
+**✅ Result**
 
 This project shows that the **SVM classifier** provides the highest accuracy for spam email detection in this dataset.
 
