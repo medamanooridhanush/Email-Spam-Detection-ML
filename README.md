@@ -56,4 +56,4 @@ This project shows that the **SVM classifier** provides the highest accuracy for
 The `spam.csv` dataset is included and was originally obtained from a GitHub public repository.
 This is a basic implementation; you can improve it with advanced NLP techniques or deep learning models.
 
-Happy Learning & Spam Filtering! ✉️🔍✨**
+**Happy Learning & Spam Filtering! ✉️🔍✨**
